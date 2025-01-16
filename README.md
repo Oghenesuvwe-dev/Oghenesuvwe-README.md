@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oghenesuvwe-dev
-- 👀 I’m interested in software/web app dev, cloud & dev ops
-- 🌱 I’m currently learning dev ops
-- 💞️ I’m looking to collaborate on dev ops
+- 👀 I’m interested in software/web app & cloud/devOps
+- 🌱 I’m currently learning DevOps engineering.
+- 💞️ I’m looking to collaborate on DevOps engineering.
 - 📫 How to reach me Oghenesuvweomashone@hotmail.com
 - 😄 Pronouns: Su-wey
 - ⚡ Fun fact: 👌
