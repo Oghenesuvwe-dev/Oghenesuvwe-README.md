@@ -2,7 +2,7 @@
 - 👀 I’m interested in software/web app dev, cloud & dev ops
 - 🌱 I’m currently learning dev ops
 - 💞️ I’m looking to collaborate on dev ops
-- 📫 How to reach me oghenesuvweomashone@Hotmail.com
+- 📫 How to reach me Oghenesuvweomashone@hotmail.com
 - 😄 Pronouns: Su-wey
 - ⚡ Fun fact: 👌
 
