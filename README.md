@@ -20,7 +20,7 @@ Building and thriving while iterating the DevOps circle and philosophy. Document
 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/oghenesuvwe)
 
-Feel free to check out my repositories and projects there are some forks!
+Feel free to check out my repositories and projects. there are some exciting fork projs!
 
 
 
