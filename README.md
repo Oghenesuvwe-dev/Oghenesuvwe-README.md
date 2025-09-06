@@ -1,10 +1,9 @@
 
 
- Hi there, I’m Oghenesuvwe 👋
+ Hi waguan? I’m Julius Oghenesuvwe
 
 👨‍💻 Profession
-DevOps/Cloud Engineer & Full Stack Software Engineer
-
+ I build stuffs, I like songs made by other people.
 🚀 Skills & Technologies
 - Python & C#
 - Certified FinOps, Nutanix, AWS, GCP, Azure, and OCI
@@ -19,6 +18,7 @@ Building and thriving while iterating the DevOps circle and philosophy. Document
 
 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/oghenesuvwe)
+- oghenesuvwe.netlify.app/
 
 Feel free to check out my repositories and projects. there are some exciting fork projs!
 
