@@ -18,7 +18,7 @@ Building and thriving while iterating the DevOps circle and philosophy. Document
 
 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/oghenesuvwe)
-- oghenesuvwe.netlify.app/
+- [oghenesuvwe.netlify.app/](https://app.netlify.com/projects/oghenesuvwe/overview)
 
 Feel free to check out my repositories and projects. there are some exciting fork projs!
 
