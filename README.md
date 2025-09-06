@@ -5,7 +5,7 @@
 👨‍💻 Profession
  I build stuffs, I like songs made by other people.
 🚀 Skills & Technologies
-- Python & C#
+- Python & C#, JS, JS, JS & JS. maybe c++ and go or whatever projects demands
 - Certified FinOps, Nutanix, AWS, GCP, Azure, and OCI
 - DevOps automation, CI/CD, cloud infrastructure, and full stack development
 
